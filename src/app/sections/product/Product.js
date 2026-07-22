@@ -42,7 +42,7 @@ export default function Product(){
           </div>
         </div>
 
-        <Button text="Conferir material" icon="/icons/fa-arrow-right.svg" variant="style1" link="/checkout" outline="blue-outline"/>
+        <Button text="Conferir material" icon="/icons/fa-arrow-right.svg" variant="style1" link="https://chk.eduzz.com/G92KY83XWE" outline="blue-outline"/>
       </div>
     </section>
   )
