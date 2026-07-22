@@ -23,7 +23,7 @@ export default function Offer(){
         <img src="/images/woman2.png" width="170" alt=""/>
         <h2>Você já tem tudo que precisa para começar</h2>
         <p>Agora, é só dar o próximo passo</p>
-        <Button text="Inicie sua preparação" icon="/icons/fa-arrow-right.svg" variant="style3" link="/checkout"/>
+        <Button text="Inicie sua preparação" icon="/icons/fa-arrow-right.svg" variant="style3" link="https://chk.eduzz.com/G92KY83XWE"/>
       </div>
     </section>
   )
